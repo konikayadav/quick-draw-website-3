@@ -1,0 +1,23 @@
+body
+{
+   background-color: rgb(217, 240, 140); 
+}
+#score
+{
+    font-size: 30px;
+    float: left;
+}
+#timer
+{
+    font-size: 30px;
+    float: right;
+}
+#sketch_name_to_be_drawn
+{
+    color: darkblue;
+}
+canvas
+{
+    border: 10px ridge;
+    border-radius: 10px;
+}
